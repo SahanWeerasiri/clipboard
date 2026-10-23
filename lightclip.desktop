@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=LightClip
+Comment=Ultra-lightweight & attractive native Linux clipboard manager
+Exec=/home/sahan-weerasiri/projects/clipboard/run.sh --toggle
+Icon=edit-paste
+Terminal=false
+Type=Application
+Categories=Utility;Office;
+Keywords=clipboard;paste;copy;history;
+StartupNotify=false
